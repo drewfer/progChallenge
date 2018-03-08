@@ -1,0 +1,6 @@
+[package]
+name = "closest_string"
+version = "0.1.0"
+authors = ["Andrew McDowell <XXXX>"]
+
+[dependencies]
